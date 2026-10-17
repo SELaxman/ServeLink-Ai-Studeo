@@ -1,0 +1,6 @@
+{
+  "name": "Servelink — Local Service Platform",
+  "description": "Connect with verified local service professionals in Bhopal for electrical, plumbing, AC repair, EV mechanics, appliances, and home services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
